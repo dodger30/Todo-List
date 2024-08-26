@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/Todo-List/',
+  base: 'https://dodger30.github.io/github-pages',
 });
  
